@@ -1,0 +1,7 @@
+Device Utilization
+---------------------------
+Total Slices: 82.5% (34224 out of 41460)
+Slice Registers: 34.6% (229285 out of 663360)
+Slice LUTs: 48.2% (159760 out of 331680)
+Block RAMs: 60.6% (654 out of 1080)
+DSP48s: 24.5% (677 out of 2760)
